@@ -1,0 +1,26 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 6' test cases in the current suite                                        
+                                             Test Method: 'tests.RegisterTc.testSuccessfulRegister'                                             
+                                                Test Description: 'check successfully register '                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Hover over "By.cssSelector: .panel.header". @30-07-2023 21:41:17.0490 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:41:17.0834 PM
+[ReportManager] Click "Create an Account". @30-07-2023 21:41:17.0919 PM
+[ReportManager] Hover over "Personal Information". @30-07-2023 21:41:20.0565 PM
+[ReportManager] Type "Mekasa" into "First Name*". @30-07-2023 21:41:21.0020 PM
+[ReportManager] Hover over "Personal Information". @30-07-2023 21:41:21.0378 PM
+[ReportManager] Type "hashem" into "Last Name*". @30-07-2023 21:41:21.0791 PM
+[ReportManager] Hover over "Personal Information". @30-07-2023 21:41:22.0208 PM
+[ReportManager] Type "hhmmohamedam1@hotmail.com" into "Email*". @30-07-2023 21:41:22.0864 PM
+[ReportManager] Hover over "Personal Information". @30-07-2023 21:41:23.0253 PM
+[ReportManager] Type "123456***" into "Password*". @30-07-2023 21:41:23.0763 PM
+[ReportManager] Hover over "Personal Information". @30-07-2023 21:41:24.0176 PM
+[ReportManager] Type "123456***" into "Confirm Password*". @30-07-2023 21:41:24.0618 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.className: password-strength-meter", isExpectedToBeVisible"true"... @30-07-2023 21:41:24.0620 PM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.className: password-strength-meter)" against "By.className: password-strength-meter". @30-07-2023 21:41:24.0807 PM
+[ReportManager] Get text "Password Strength: Weak" from "By.className: password-strength-meter". @30-07-2023 21:41:24.0958 PM
+[ReportManager] Scroll to element "Create an Account". @30-07-2023 21:41:25.0207 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:41:25.0518 PM
+[ReportManager] Click "Create an Account". @30-07-2023 21:41:25.0566 PM

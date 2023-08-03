@@ -1,0 +1,57 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '9 out of 6' test cases in the current suite                                        
+                                           Test Method: 'tests.BrowseProduct.checkAddingProductToCart'                                           
+                 Test Description: 'given add Circe_Hooded_Ice_Fleece to shopping cart when valid user logged in then assert it'                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:42:56.0606 PM
+[ReportManager] Click "Circe Hooded Ice Fleece". @30-07-2023 21:42:56.0761 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:43:00.0407 PM
+[ReportManager] Click "XS". @30-07-2023 21:43:00.0635 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:43:01.0077 PM
+[ReportManager] Click "Green". @30-07-2023 21:43:01.0228 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //img[@src="https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/d34482110da20c5e24f97c38fb219fb3/w/h/wh12-green_main_1.jpg"]", isExpectedToBeVisible"true"... @30-07-2023 21:43:01.0229 PM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //img[@src="https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/d34482110da20c5e24f97c38fb219fb3/w/h/wh12-green_main_1.jpg"])" against "By.xpath: //img[@src="https://magento.softwaretestingboard.com/pub/media/catalog/product/cache/d34482110da20c5e24f97c38fb219fb3/w/h/wh12-green_main_1.jpg"]". @30-07-2023 21:43:01.0557 PM
+[ReportManager] Capture element screenshot @30-07-2023 21:43:04.0821 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1690746182056_checkAddingProductToCart_captureScreenshot_passed' @30-07-2023 21:43:04.0885 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/main/resources/dynamicObjectRepository/windows/chrome/tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:04.0961 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/main/resources/dynamicObjectRepository/windows/chrome/tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:04.0962 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/main/resources/dynamicObjectRepository/windows/chrome/tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:04.0963 PM
+[ReportManager] File Action "ReadFileAsByteArray" successfully performed. With the following test data "File Path: "C:\Users\A7med\IdeaProjects\luma\src\main\resources\dynamicObjectRepository\windows\chrome\tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:04.0985 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/main/resources/dynamicObjectRepository/windows/chrome/tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:05.0304 PM
+[ReportManager] Failed to locate element using "EXACT_SHUTTERBUG", attempting to use "EXACT_OPENCV". @30-07-2023 21:43:07.0226 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/main/resources/dynamicObjectRepository/windows/chrome/tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:07.0228 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/main/resources/dynamicObjectRepository/windows/chrome/tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:07.0734 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/main/resources/dynamicObjectRepository/windows/chrome/tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:07.0734 PM
+[ReportManager] File Action "ReadFileAsByteArray" successfully performed. With the following test data "File Path: "C:\Users\A7med\IdeaProjects\luma\src\main\resources\dynamicObjectRepository\windows\chrome\tests_BrowseProduct_checkAddingProductToCart_By_xpath_img_src_httpsmagento_softwaretestingboard_compubmediacatalogproductcached34482110da20c5e24f97c38fb219fb3whwh12_green_main_1_jpg.png"". @30-07-2023 21:43:07.0735 PM
+[ReportManager] Match accuracy is 100% and threshold is 90%. Match Method: 5. @30-07-2023 21:43:07.0882 PM
+[ReportManager] Successfully identified the element using AI; OpenCV. Match accuracy is 100% and threshold is 90%. Match Method: 5. @30-07-2023 21:43:08.0422 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1690746188023_checkAddingProductToCart_AI identified element_passed' @30-07-2023 21:43:08.0427 PM
+[ReportManager] Assertion "ValidateElementMatches" PASSED. Expected "Element should match the reference screenshot" and Actual "TRUE". Comparison Type "EXACT_SHUTTERBUG". Validation Type "POSITIVE". @30-07-2023 21:43:11.0167 PM
+[ReportManager] Assertion Passed: Assert that Green Product image is Displayed properly @30-07-2023 21:43:11.0168 PM
+[ReportManager] Successfully created attachment 'Validation Test Data - Reference Screenshot' @30-07-2023 21:43:11.0171 PM
+[ReportManager] Successfully created attachment 'Validation Test Data - Actual Screenshot' @30-07-2023 21:43:11.0174 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1690746190319_checkAddingProductToCart_ValidateElementMatches_passed' @30-07-2023 21:43:11.0185 PM
+[ReportManager] Scroll to element "Add to Cart". @30-07-2023 21:43:11.0370 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:43:11.0620 PM
+[ReportManager] Click "Add to Cart". @30-07-2023 21:43:11.0797 PM
+[ReportManager] Get text "You added Circe Hooded Ice Fleece to your shopping cart." from "By.xpath: //div[@data-bind="html: $parent.prepareMessageForHtml(message.text)"]". @30-07-2023 21:43:14.0515 PM
+[ReportManager] Get text "You added Circe Hooded Ice Fleece to your shopping cart." from "By.xpath: //div[@data-bind="html: $parent.prepareMessageForHtml(message.text)"]". @30-07-2023 21:43:14.0647 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:43:14.0911 PM
+[ReportManager] Click " My Cart 1 1items". @30-07-2023 21:43:15.0035 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:43:15.0446 PM
+[ReportManager] Click "Proceed to Checkout". @30-07-2023 21:43:15.0584 PM
+[ReportManager] Scroll to element "By.id: shipping-method-buttons-container". @30-07-2023 21:43:28.0595 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //*[@id="shipping-method-buttons-container"]/div/button", isExpectedToBeVisible"true"... @30-07-2023 21:43:28.0596 PM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //*[@id="shipping-method-buttons-container"]/div/button)" against "Next". @30-07-2023 21:43:28.0683 PM
+[ReportManager] Click using javascript "Next". @30-07-2023 21:43:28.0845 PM
+[ReportManager] Click using javascript "Place Order". @30-07-2023 21:43:32.0062 PM
+[ReportManager] Capture page snapshot. @30-07-2023 21:43:35.0881 PM
+[ReportManager] Successfully created attachment 'Browser Action Test Data - Capture page snapshot - Actual Value' @30-07-2023 21:43:35.0890 PM
+[ReportManager] Get current url "https://magento.softwaretestingboard.com/checkout/onepage/success/". @30-07-2023 21:43:35.0970 PM
+[ReportManager] Get current url "https://magento.softwaretestingboard.com/checkout/onepage/success/". @30-07-2023 21:43:37.0053 PM
+[ReportManager] Expected "https://magento.softwaretestingboard.com/checkout/onepage/success/", and actual "https://magento.softwaretestingboard.com/checkout/onepage/success/" @30-07-2023 21:43:37.0054 PM
+[ReportManager] Verification "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'https://magento.softwaretestingboard.com/checkout/onepage/success/' for the 'currenturl' attribute" and Actual "https://magento.softwaretestingboard.com/checkout/onepage/success/". Comparison Type "EQUALS". Validation Type "POSITIVE". @30-07-2023 21:43:38.0314 PM
+[ReportManager] Verification Passed: The Browser URL is equal to "https://magento.softwaretestingboard.com/checkout/onepage/success/". @30-07-2023 21:43:38.0340 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1690746217310_checkAddingProductToCart_ValidateBrowserAttribute_passed' @30-07-2023 21:43:38.0343 PM

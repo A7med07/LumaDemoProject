@@ -1,0 +1,30 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 6' test cases in the current suite                                        
+                                   Test Method: 'tests.AccountActionTc.checkChangePassOfRegisteredAccountInfo'                                   
+                                Test Description: 'check Changing Password Of Registered Account then assert it'                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:42:12.0146 PM
+[ReportManager] Click "Change ". @30-07-2023 21:42:12.0259 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.linkText: My Account", isExpectedToBeVisible"true"... @30-07-2023 21:42:12.0262 PM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.linkText: My Account)" against "My Account". @30-07-2023 21:42:12.0589 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:42:12.0988 PM
+[ReportManager] Click "My Account". @30-07-2023 21:42:13.0131 PM
+[ReportManager] Scroll to element "By.cssSelector: .block.block-dashboard-info". @30-07-2023 21:42:15.0265 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:42:16.0073 PM
+[ReportManager] Click "Change Password". @30-07-2023 21:42:16.0184 PM
+[ReportManager] Scroll to element "By.cssSelector: input[id="current-password"]". @30-07-2023 21:42:18.0847 PM
+[ReportManager] Type "AH90****new" into "Current Password*". @30-07-2023 21:42:19.0919 PM
+[ReportManager] Scroll to element "New Password*". @30-07-2023 21:42:20.0093 PM
+[ReportManager] Type "AH90****new" into "New Password*". @30-07-2023 21:42:20.0649 PM
+[ReportManager] Get text "Password Strength: Strong" from "By.id: password-strength-meter-container". @30-07-2023 21:42:20.0960 PM
+[ReportManager] Wait for text to change "from: "Password Strength: No Password
+", to: "Password Strength: Strong"" against "By.id: password-strength-meter-container". @30-07-2023 21:42:20.0961 PM
+[ReportManager] Get text "Password Strength: Strong" from "By.id: password-strength-meter-container". @30-07-2023 21:42:21.0046 PM
+[ReportManager] Get text "Password Strength: Strong" from "By.id: password-strength-meter-container". @30-07-2023 21:42:21.0201 PM
+[ReportManager] Wait for text to change "from: "Password Strength: No Password
+", to: "Password Strength: Strong"" against "By.id: password-strength-meter-container". @30-07-2023 21:42:21.0201 PM
+[ReportManager] Get text "Password Strength: Strong" from "By.id: password-strength-meter-container". @30-07-2023 21:42:21.0274 PM
+[ReportManager] Scroll to element "Confirm New Password*". @30-07-2023 21:42:21.0368 PM
+[ReportManager] Type "AH90****new" into "Confirm New Password*". @30-07-2023 21:42:21.0659 PM

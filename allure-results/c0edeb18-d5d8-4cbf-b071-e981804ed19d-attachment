@@ -1,0 +1,145 @@
+<html lang="en"><head>
+<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script>
+    var BASE_URL = 'https://magento.softwaretestingboard.com/';
+    var require = {
+        "baseUrl": "https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US"
+    };
+</script>
+<meta charset="utf-8">
+<meta name="title" content="Customer Login">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>Customer Login</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/calendar.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/css/styles-m.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/css/styles-l.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/css/print.css">
+<link rel="icon" type="image/x-icon" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico">
+<script type="text/javascript" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/requirejs/require.js"></script>
+<script type="text/javascript" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/requirejs/mixins.js"></script>
+<script type="text/javascript" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/requirejs-config.js"></script>
+<script type="text/javascript" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/polyfill.js"></script>
+<link rel="preload" as="font" crossorigin="anonymous" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/fonts/opensans/light/opensans-300.woff2">
+<link rel="preload" as="font" crossorigin="anonymous" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/fonts/opensans/regular/opensans-400.woff2">
+<link rel="preload" as="font" crossorigin="anonymous" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/fonts/opensans/semibold/opensans-600.woff2">
+<link rel="preload" as="font" crossorigin="anonymous" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/fonts/opensans/bold/opensans-700.woff2">
+<link rel="preload" as="font" crossorigin="anonymous" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/fonts/Luma-Icons.woff2">
+<link rel="stylesheet" type="text/css" media="all" href="https://magento.softwaretestingboard.com/pub/media/styles.css">
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1248743922444648');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1248743922444648&ev=PageView&noscript=1"
+/></noscript> 
+ 
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_GoogleAnalytics/js/google-analytics": {
+            "isCookieRestrictionModeEnabled": 0,
+            "currentWebsite": 1,
+            "cookieName": "user_allowed_save_cookie",
+            "ordersTrackingData": [],
+            "pageTrackingData": {"optPageUrl":"","isAnonymizedIpActive":false,"accountId":"UA-92260117-7"}        }
+    }
+}
+</script>
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery/jquery.mobile.custom" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/jquery/jquery.mobile.custom.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/common" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/common.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/dataPost" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/dataPost.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/bootstrap" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/bootstrap.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="jquery" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/jquery.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="mage/translate-inline" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/translate-inline.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Translation/js/mage-translation-dictionary" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Translation/js/mage-translation-dictionary.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/responsive" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Theme/js/responsive.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="Magento_Theme/js/theme" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Theme/js/theme.js"></script></head>
+<body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/images/loader-2.gif&quot;}}" class="customer-account-login page-layout-1column">
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "\u002F",
+                "domain": ".magento.softwaretestingboard.com",
+                "secure": false,
+                "lifetime": "3600"
+            }
+        }
+    }
+</script>
+<noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
+            </div>
+        </div>
+    </noscript>
+<script>
+    window.cookiesConfig = window.cookiesConfig || {};
+    window.cookiesConfig.secure = true;
+</script>
+<script>
+    require.config({
+        map: {
+            '*': {
+                wysiwygAdapter: 'mage/adminhtml/wysiwyg/tiny_mce/tinymce4Adapter'
+            }
+        }
+    });
+</script>
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper"><div class="panel header"><a class="action skip contentarea" href="#contentarea">
+<span>
+Skip to Content </span>
+</a>
+<ul class="header links"> <li class="greet welcome" data-bind="scope: 'customer'">
+<!-- ko if: customer().fullname  -->
+<span class="logged-in" data-bind="text: new String('Welcome, %1!').replace('%1', customer().fullname)">
+</span>
+<!-- /ko -->
+<!-- ko ifnot: customer().fullname  -->
+<span class="not-logged-in" data-bind="html:&quot;Default welcome msg!&quot;"></span>
+<!-- /ko -->
+</li>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "customer": {
+                        "component": "Magento_Customer/js/view/customer"
+                    }
+                }
+            }
+        }
+    }
+    </script>
+<li class="authorization-link" data-label="or">
+<a href="https://magento.softwaretestingboard.com/customer/account/login/referer/aHR0cHM6Ly9tYWdlbnRvLnNvZnR3YXJldGVzdGluZ2JvYXJkLmNvbS9jdXN0b21lci9hY2NvdW50L2xvZ2luLw%2C%2C/">
+Sign In </a>
+</li>
+<li><a href="https://magento.softwaretestingboard.com/customer/account/create/">Create an Account</a></li></ul></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+<a class="logo" href="https://magento.softwaretestingboard.com/" title="" aria-label="store logo">
+<img src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/images/logo.svg" title="" alt="">
+</a>
+<div data-block="minicart" class="minicart-wrapper">
+<a class="action showcart" href="https://magento.softwaretestingboard.com/checkout/cart/" data-bind="scope: 'minicart_content'">
+<span class="text">My Cart</span>
+<span class="counter qty empty" data-bind="css: { empty: !!getCartParam('summary_count') == false &amp;&amp; !isLoading() }, blockLoader: isLoading">
+<span class="counter-number"><!-- ko text: getCartParam('summary_count') --><!-- /ko --></span>
+<span class="counter-label">
+<!-- ko if: getCartParam('summary_count') -->
+<!-- ko text: getCartParam('summary_count') --><!-- /ko -->
+<!-- ko i18n: 'items' --><!-- /ko -->
+<!-- /ko -->
+</span>
+</span>
+</a>
+</div></div></header></div></body></html>

@@ -1,0 +1,20 @@
+<html lang="en"><head>
+<script>
+    var BASE_URL = 'https://magento.softwaretestingboard.com/';
+    var require = {
+        "baseUrl": "https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US"
+    };
+</script>
+<meta charset="utf-8">
+<meta name="title" content="Create New Customer Account">
+<meta name="robots" content="INDEX,FOLLOW">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>Create New Customer Account</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/mage/calendar.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/css/styles-m.css">
+<link rel="stylesheet" type="text/css" media="screen and (min-width: 768px)" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/css/styles-l.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/css/print.css">
+<link rel="icon" type="image/x-icon" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/Magento_Theme/favicon.ico">
+<script type="text/javascript" src="https://magento.softwaretestingboard.com/pub/static/version1678540400/frontend/Magento/luma/en_US/requirejs/require.js"></script></head></html>

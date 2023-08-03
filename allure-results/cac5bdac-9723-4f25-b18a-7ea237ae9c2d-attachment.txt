@@ -1,0 +1,14 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '7 out of 6' test cases in the current suite                                        
+                                             Test Method: 'tests.BrowseProduct.checkSuccessfulLogin'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Get text from "Email*". @30-07-2023 21:42:43.0571 PM
+[ReportManager] Clear "Email". @30-07-2023 21:42:43.0572 PM
+[ReportManager] Type "ab.born1994@gmail.com" into "Email*". @30-07-2023 21:42:44.0379 PM
+[ReportManager] Type "AH90****new" into "Password*". @30-07-2023 21:42:44.0847 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.className: logo", isExpectedToBeVisible"true"... @30-07-2023 21:42:45.0024 PM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.className: logo)" against "store logo". @30-07-2023 21:42:47.0898 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-07-2023 21:42:48.0841 PM
+[ReportManager] Click "store logo". @30-07-2023 21:42:48.0954 PM

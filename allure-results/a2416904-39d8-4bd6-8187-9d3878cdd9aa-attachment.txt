@@ -1,0 +1,16 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '8 out of 6' test cases in the current suite                                        
+                                            Test Method: 'tests.BrowseProduct.checkSearchingForShirt'                                            
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[ReportManager] Waiting for element to be present; elementLocator "By.name: q", isExpectedToBeVisible"true"... @30-07-2023 21:42:48.0990 PM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.name: q)" against "Search entire store here...". @30-07-2023 21:42:51.0224 PM
+[ReportManager] Type "shirt" into " Search". @30-07-2023 21:42:52.0182 PM
+[ReportManager] Key press "ENTER" against " Search". @30-07-2023 21:42:52.0556 PM
+[ReportManager] Get text "Search results for: 'shirt'" from "By.className: base". @30-07-2023 21:42:54.0263 PM
+[ReportManager] Get text "Search results for: 'shirt'" from "By.className: base". @30-07-2023 21:42:54.0394 PM
+[ReportManager] Capture element screenshot @30-07-2023 21:42:55.0301 PM
+[ReportManager] Waiting for element to be present; elementLocator "By.xpath: //div[@class='search results']", isExpectedToBeVisible"true"... @30-07-2023 21:42:55.0302 PM
+[ReportManager] Wait to be ready "Waited for the element's state of visibility to be (true). Element locator (By.xpath: //div[@class='search results'])" against "By.xpath: //div[@class='search results']". @30-07-2023 21:42:56.0117 PM
+[ReportManager] Scroll to element "By.xpath: //div[@class='search results']". @30-07-2023 21:42:56.0286 PM
